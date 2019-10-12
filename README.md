@@ -6,7 +6,7 @@
 1.2 Install Angular CLI globally: `npm install -g @angular/cli`
  
 
-### 2. SetUp LB Appointment Scheduler in your local environment
+### 2. SetUp app in your local environment
 
 2.1  cd to `assignment`
 
