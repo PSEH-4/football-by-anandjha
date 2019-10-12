@@ -75,7 +75,7 @@ app.use("/api/getFootballLeague", getFootballLeague);
 
 
 app.get("*", (req, res) => {
-  res.sendFile(path.join(__dirname, "public/dist/index.html"));
+  res.sendFile(path.join(__dirname, "public/dist/public/index.html"));
 });
 
 
